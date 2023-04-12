@@ -4,7 +4,7 @@ game "rdr3"
 lua54 'yes'
 
 author 'Emotion'
-description 'by Emotion'
+description 'Notify Script'
 version '1.0.0'
 
 server_scripts {
