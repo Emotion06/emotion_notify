@@ -11,7 +11,7 @@ This script replaces the announcements of txAdmin. For this you have to go to tx
 
 ## REQUIREMENTS
 - VORP Core
-- BCC Versioner
+- BCC Versioner (https://github.com/BryceCanyonCounty/bcc-versioner) 
 
 ## HOW TO USE THE SCRIPT
 - Add the file to your resource file
