@@ -33,5 +33,3 @@ end
 local versioner = exports['bcc-versioner'].initiate()
 local repo = 'https://github.com/Emotion06/emotion_notify'
 versioner.checkRelease(GetCurrentResourceName(), repo)
-
-print("^6𝙀𝙈𝙊𝙏𝙄𝙊𝙉_𝙉𝙊𝙏𝙄𝙁𝙔 ^5is Started! ^6🌌 𝙀𝙢𝙤𝙩𝙞𝙤𝙣 𝙎𝙘𝙧𝙞𝙥𝙩𝙨 ^0- ^5https://discord.gg/h4nhwVQCAQ ^0")
